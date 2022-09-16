@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="UnDosTres">
+	<test name="Test Cases">
+		<classes>
+				<class name="com.undostres.qa.testcases.LoginPageTest"></class>
+				<class name="com.undostres.qa.testcases.PatientRegistrationPageTest"></class>
+				<class name="com.undostres.qa.testcases.PatientSearchTest"></class>
+				<class name="com.undostres.qa.testcases.PatientViewTest"></class>
+				<class name="com.undostres.qa.testcases.AppointmentPageTest"></class>
+				<class name="com.undostres.qa.testcases.LogoutTest"></class>
+			</classes>
+	</test>
+</suite>
